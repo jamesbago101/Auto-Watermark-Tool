@@ -1,0 +1,1 @@
+Auto Watermark Tool is a desktop application designed to make adding watermarks to images simple, fast, and efficient. It allows users to batch-process multiple photos at once with a clean and modern interface.
